@@ -32,6 +32,9 @@ const Footer = () => {
                             <li className="cursor-pointer">Contact</li>
                         </ul>
                     </div>
+                    <div className='text-center px-4'>
+                        <p>Created with love by BW </p>
+                    </div>
                     <div className="flex gap-10 mt-12 md:mt-0">
                     <li><TwitterIcon className="text-white text-2xl"/></li>
                     <li><FacebookIcon className="text-white text-2xl"/></li>
