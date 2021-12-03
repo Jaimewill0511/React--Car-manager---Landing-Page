@@ -5,7 +5,7 @@ import Image from './Image';
 
  const Features = () => {
     return (
-        <section className="bg-bookmark-white py-20 mt-20 lg:mt-60">
+        <section id="Features" className="bg-bookmark-white py-20 mt-20 lg:mt-60">
         {/* Heading */}
             <div className="sm:w-3/4 lg:w-5/12 mx-auto px-2">
                 <h1 className='text-3xl text-center text-bookmark-blue'>Features</h1>

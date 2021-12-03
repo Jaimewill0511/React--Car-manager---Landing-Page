@@ -5,7 +5,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 const Footer = () => {
     return (
         <div>
-            <section className="bg-bookmark-purple text-white py-20">
+            <section  id="Contact" className="bg-bookmark-purple text-white py-20">
                 <div className="container">
                     <div className="sm:w-3/4 lg:w-2/4 mx-auto">
                         <p className="font-light uppercase text-center mb-8">15,000+ ALREADY JOINED</p>
