@@ -3,7 +3,7 @@
 
 > Simple React landing page made using technologies like tailwind css
 
-> Check it out here 🏠 [Homepage](https://619cb55fa65ebfbea1fd2124--amazing-noyce-a52e6c.netlify.app/)
+> Check it out here 🏠 [Homepage](https://amazing-noyce-a52e6c.netlify.app/)
 
 
 ![Screenshot (193)](https://user-images.githubusercontent.com/67603735/143005140-a285fda0-5fa7-4e30-a211-8b7d7a6d5e0a.png)
